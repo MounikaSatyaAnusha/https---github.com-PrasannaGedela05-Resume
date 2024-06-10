@@ -1,0 +1,38 @@
+body{
+    background:black;
+    color:white;
+  }
+  pics{
+    width:10px;
+    height:10px;
+    display: flex;
+  }
+  span{
+    color:red;
+    font-size: 30px;
+  }
+  web{
+    color:red;
+  }
+  .pics {
+    width: 50%;
+    overflow: hidden;
+  }
+  .col {
+    text-align: center;
+    width: 20%;
+    height: 20px;
+    float: left;
+    background: black;
+    color:white;
+    margin-right: 2%;
+    margin-bottom: 5px;
+    padding: 10px;
+  }
+  img{
+    border-radius:50%;
+  }
+  a{
+    text-decoration:none;
+    color:white;
+  }
